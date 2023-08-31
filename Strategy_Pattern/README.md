@@ -1,4 +1,4 @@
-## Strategy
+## Strategy Design Pattern
 
 The Strategy pattern is a behavioral design pattern that defines a family of algorithms, encapsulates each one, and makes them interchangeable. It allows the client to choose the appropriate algorithm to use at runtime. This pattern promotes the principle of "composition over inheritance" by favoring composition to define a set of algorithms and behaviors instead of inheriting them in subclasses.
 
