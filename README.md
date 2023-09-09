@@ -3,7 +3,7 @@
 ![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*t9pXNsn5rUaeECmNTA1m0Q.png)
 
 ## Brief
-Welcome to the Design Patterns Collection repository! This repository contains a comprehensive collection of design patterns implemented in various programming languages. Design patterns are reusable solutions to common problems encountered in software development. By using these patterns, you can create more maintainable and scalable code.
+Welcome to the Design Patterns Collection repository! This repository contains a comprehensive collection of design patterns implemented in JAVA. Design patterns are reusable solutions to common problems encountered in software development. By using these patterns, you can create more maintainable and scalable code.
 
 This repository includes the following design patterns:
 
